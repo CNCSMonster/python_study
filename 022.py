@@ -1,0 +1,10 @@
+#创建字典的键列表
+a={"你好":1,"you":2,"why":3}
+key=list(a.keys())
+print(key)
+#创建字典的值列表
+value=list(a.values())
+print(value)
+#创建字典的元素的列表
+item=list(a.items())
+print(item)
